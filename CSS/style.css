@@ -26,7 +26,7 @@ input{
 }
 
 input:hover{
-    background-color: #508cee;
+    background-color: #0a64f4;
     border: 0px;
     padding: 10px 30px 10px 30px;
     border-radius: 5px;
@@ -252,7 +252,7 @@ input:hover{
 .SignUpButton{
     display: flex;
     align-items: center;
-    border: 2px solid white;
+    border: 1px solid white;
     border-radius: 10px;
 }
 
